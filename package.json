@@ -1,0 +1,17 @@
+{
+  "name": "dbhealth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dbhealth": "file:",
+    "mongodb": "^6.15.0",
+    "mysql2": "^3.14.0",
+    "pg": "^8.14.1"
+  }
+}
